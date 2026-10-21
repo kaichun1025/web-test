@@ -1,2 +1,2 @@
 # web-test
-testing
+Only for testing.
