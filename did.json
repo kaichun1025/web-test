@@ -8,7 +8,7 @@
     {
       "type": "Multikey",
       "publicKeyMultibase": "z6Mku89t8VoumwyvLkc4QH21AWBm8oZQjRkfz3BdvNi8ryYG",
-      "id": "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ",
+      "id": "did:web:kaichun1025.github.io:web-test#z6Mku89t8VoumwyvLkc4QH21AWBm8oZQjRkfz3BdvNi8ryYG",
       "controller": "did:web:kaichun1025.github.io:web-test"
     }
   ],
