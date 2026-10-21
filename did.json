@@ -1,0 +1,27 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1"
+  ],
+  "id": "did:web:kaichun1025.github.io:web-test",
+  "verificationMethod": [
+    {
+      "type": "Multikey",
+      "publicKeyMultibase": "z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ",
+      "id": "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ",
+      "controller": "did:web:kaichun1025.github.io:web-test"
+    }
+  ],
+  "authentication": [
+    "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ"
+  ],
+  "assertionMethod": [
+    "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ"
+  ],
+  "capabilityDelegation": [
+    "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ"
+  ],
+  "capabilityInvocation": [
+    "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ"
+  ]
+}
