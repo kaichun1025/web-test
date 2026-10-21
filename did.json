@@ -7,21 +7,21 @@
   "verificationMethod": [
     {
       "type": "Multikey",
-      "publicKeyMultibase": "z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ",
+      "publicKeyMultibase": "z6Mku89t8VoumwyvLkc4QH21AWBm8oZQjRkfz3BdvNi8ryYG",
       "id": "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ",
       "controller": "did:web:kaichun1025.github.io:web-test"
     }
   ],
   "authentication": [
-    "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ"
+    "did:web:kaichun1025.github.io:web-test#z6Mku89t8VoumwyvLkc4QH21AWBm8oZQjRkfz3BdvNi8ryYG"
   ],
   "assertionMethod": [
-    "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ"
+    "did:web:kaichun1025.github.io:web-test#z6Mku89t8VoumwyvLkc4QH21AWBm8oZQjRkfz3BdvNi8ryYG"
   ],
   "capabilityDelegation": [
-    "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ"
+    "did:web:kaichun1025.github.io:web-test#z6Mku89t8VoumwyvLkc4QH21AWBm8oZQjRkfz3BdvNi8ryYG"
   ],
   "capabilityInvocation": [
-    "did:web:kaichun1025.github.io:web-test#z6Mkuiino8J5okryDcC8FGjNYuV9P7Ug5GtUURHvdX8XNNWZ"
+    "did:web:kaichun1025.github.io:web-test#z6Mku89t8VoumwyvLkc4QH21AWBm8oZQjRkfz3BdvNi8ryYG"
   ]
 }
